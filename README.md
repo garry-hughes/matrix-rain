@@ -1,13 +1,13 @@
 # Matrix Rain
 
-[![skills.sh](https://skills.sh/b/garry/matrix-rain)](https://skills.sh/garry/matrix-rain)
+[![skills.sh](https://skills.sh/b/garry-hughes/matrix-rain)](https://skills.sh/garry-hughes/matrix-rain)
 
 Matrix-style green code rain animation for the terminal — installable as an AI agent skill.
 
 ## Installation
 
 ```bash
-npx skills add garry/matrix-rain
+npx skills add garry-hughes/matrix-rain
 ```
 
 ## What It Does
